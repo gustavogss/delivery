@@ -46,6 +46,12 @@ lib/
 
 ---
 
+## Aplicativo
+<img width="1077" height="726" alt="flutter-app (1)" src="https://github.com/user-attachments/assets/81dc365e-e779-4669-a66b-1db946f9122c" />
+
+
+---
+
 ## 📱 Demonstração
 
 > 💡 *Gravação de tela do app em funcionamento.*
